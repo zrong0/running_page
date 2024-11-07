@@ -3,7 +3,7 @@ const MAPBOX_TOKEN =
   // For security reasons, please avoid using the default public token provided by Mapbox as much as possible.
   // Instead, manually add a new token and apply URL restrictions.
   // (please refer to https://github.com/yihong0618/running_page/issues/643#issuecomment-2042668580)
-  'sk.eyJ1IjoiemVyeTE2IiwiYSI6ImNtMzcydmJ2ODBicWoya3B6eHo5dnpzeGsifQ.DbCM4CrIAzxOx8eTZVx1_A';
+  'pk.eyJ1IjoiemVyeTE2IiwiYSI6ImNsNWM0OTh3ajBlMWszYnMwZTU3aThkNHUifQ.b2JgYrggYX0afpg7Uc8skw';
 const MUNICIPALITY_CITIES_ARR = [
   '北京市',
   '上海市',
